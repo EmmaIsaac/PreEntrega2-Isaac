@@ -8,7 +8,7 @@ body {
 
 header {
     background-color: #333333;
-}
+} 
 
 .navbar-brand img {
     height: 45px;
@@ -22,3 +22,50 @@ header {
 .nav-link:hover {
     color: #f1c232;
 }
+
+.navbar-toggler {
+opacity: 60%;
+}
+
+.giftcard-inicio {
+    background-color: #333333;
+}
+
+.giftcard-inicio h1 {
+    color: #eeeeee;
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 30px;
+}
+
+/*.btn {
+    background-color: #f1c232;
+    color: #333333;
+    font-size: 20px;
+    font-weight: bolder;    
+}
+
+.btn:hover {
+    color: #f1c232;
+}*/
+
+.card-corte {
+    background-color: #f1c232;
+}
+
+.card-corte h2 {
+    margin-top: 30px;
+    margin-left: 20px;
+    margin-bottom: 10px;  
+    font-weight: bold;
+}
+
+.card-corte p {
+    font-size: 20px;
+    font-weight: bold;
+    margin-right: 30px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    
+}
+
