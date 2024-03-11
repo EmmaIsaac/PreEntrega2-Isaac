@@ -38,17 +38,6 @@ opacity: 60%;
     margin-bottom: 30px;
 }
 
-/*.btn {
-    background-color: #f1c232;
-    color: #333333;
-    font-size: 20px;
-    font-weight: bolder;    
-}
-
-.btn:hover {
-    color: #f1c232;
-}*/
-
 .card-corte {
     background-color: #f1c232;
 }
@@ -74,11 +63,11 @@ opacity: 60%;
     margin-top: 30px;
     font-weight: bold;    
 }
-
+/*
 .card img {
     height: 200px;
 }
-
+*/
 footer {
     background-color: #333333;
     padding: 10px;
@@ -100,3 +89,16 @@ footer .redes a {
     text-align: center;
 }
 
+/* ESTILO PAGINA GIFTCARD */
+
+.card-body h3 {
+    font-weight: bold;
+}
+
+.card-body p {
+    font-weight: bold;
+}
+
+.card-body button {
+    font-weight: bold;
+}
