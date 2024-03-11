@@ -72,7 +72,7 @@ opacity: 60%;
 .Tendencias {
     text-align: center;
     margin-top: 30px;
-    font-weight: bold;
+    font-weight: bold;    
 }
 
 .card img {
@@ -83,7 +83,7 @@ footer {
     background-color: #333333;
     padding: 10px;
     color: #f1c232;
-    
+    margin-top: 20px;
 }
 
 footer p {
