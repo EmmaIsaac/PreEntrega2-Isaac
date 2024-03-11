@@ -78,3 +78,23 @@ opacity: 60%;
 .card img {
     height: 200px;
 }
+
+footer {
+    background-color: #333333;
+    padding: 10px;
+    color: #f1c232;
+    
+}
+
+footer p {
+    margin-top: 10px;
+    font-weight: bold;
+}
+
+footer .redes a {
+    font-size: 30px;
+    text-decoration: none;
+    color: #f1c232;
+    margin-left: 5px;
+}
+
