@@ -69,3 +69,12 @@ opacity: 60%;
     
 }
 
+.Tendencias {
+    text-align: center;
+    margin-top: 30px;
+    font-weight: bold;
+}
+
+.card img {
+    height: 200px;
+}
