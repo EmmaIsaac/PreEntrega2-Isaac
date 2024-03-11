@@ -89,6 +89,7 @@ footer {
 footer p {
     margin-top: 10px;
     font-weight: bold;
+    text-align: center;
 }
 
 footer .redes a {
@@ -96,5 +97,6 @@ footer .redes a {
     text-decoration: none;
     color: #f1c232;
     margin-left: 5px;
+    text-align: center;
 }
 
